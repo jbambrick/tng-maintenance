@@ -1,0 +1,8 @@
+body {
+    background: url(https://datsan.openbroadcaster.pro/download.php?media_id=3178);
+    background-position: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
